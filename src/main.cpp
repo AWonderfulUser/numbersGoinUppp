@@ -1,5 +1,9 @@
 #include <iostream>
+#include "main.hpp"
 
 int main() {
-    std::cout << "Hello, World!" << std::endl;
+    while(true) {
+        number++;
+        std::cout << number << std::endl;
+    }
 }

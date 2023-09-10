@@ -1,0 +1,1 @@
+double number = 0;
